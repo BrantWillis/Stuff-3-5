@@ -13,3 +13,6 @@ git status
 
     ## List all branches
 git branch
+
+    ## Merge feature1 into main branch
+git merge feature1 (while on main)
