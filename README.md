@@ -2,8 +2,11 @@
 
 this is my masterpiece  
 
-    ## Switch to a new branch 'feature1'
+    ## Create and switch to a new branch 'feature1'
 git checkout -b "feature1"
+
+    ## Just switch
+git checkout "main"
 
     ## Check the github status
 git status
